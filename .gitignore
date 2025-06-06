@@ -1,0 +1,8 @@
+# ignore backups dir
+backups/
+
+# ignore binary
+mcbackup
+
+# ignore vscode stuff
+.vscode
